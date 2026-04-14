@@ -1,4 +1,4 @@
-# 📚 EgoSphere Books — AI-Powered Book Insight System
+# EgoSphere Books — AI-Powered Book Insight System
 
 A full-stack web application that scrapes books from the web, generates AI-powered insights, and supports intelligent question-answering using a RAG (Retrieval-Augmented Generation) pipeline.
 
@@ -27,15 +27,15 @@ A full-stack web application that scrapes books from the web, generates AI-power
 
 ## Features
 
-- ✅ Multi-page Selenium scraping from books.toscrape.com
-- ✅ AI Summary, Genre Classification, Sentiment Analysis via LM Studio
-- ✅ Full RAG pipeline with ChromaDB vector search + source citations
-- ✅ Response caching — avoids repeated LLM calls for same question
-- ✅ Smart chunking with overlapping windows
-- ✅ Recommendation engine based on genre similarity
-- ✅ Q&A history saved and displayed
-- ✅ Responsive Next.js + Tailwind CSS frontend
-- ✅ Search and filter by genre on dashboard
+- Multi-page Selenium scraping from books.toscrape.com
+- AI Summary, Genre Classification, Sentiment Analysis via LM Studio
+- Full RAG pipeline with ChromaDB vector search + source citations
+- Response caching — avoids repeated LLM calls for same question
+- Smart chunking with overlapping windows
+- Recommendation engine based on genre similarity
+- Q&A history saved and displayed
+- Responsive Next.js + Tailwind CSS frontend
+- Search and filter by genre on dashboard
 
 ---
 
